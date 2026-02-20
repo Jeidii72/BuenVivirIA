@@ -1,0 +1,6 @@
+@BuenVivirIA_HostAddress = http://localhost:5005
+
+GET {{BuenVivirIA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
